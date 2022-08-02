@@ -25,3 +25,12 @@ In order to determine the summary statistics for June and December temperatures 
 
 
 ![](December%20temp.png)
+
+
+## Summary findings:
+* June makes it a perfect time to visit Oahu since it is warm enough to enjoy some water sports but not too hot for a jog
+* December temperatures are comfortable but can be a little chillier than expected for those who look for a warm evening stroll or evening ocean dive 
+
+## Recommendations:
+In order to better understand June and December weather conditions in Oahu, Hawaii, the following analysis/query is recommended:
+* Plot the average June and December temperatures
