@@ -32,5 +32,7 @@ In order to determine the summary statistics for June and December temperatures 
 * December temperatures are comfortable but can be a little chillier than expected for those who look for a warm evening stroll or evening ocean dive 
 
 ## Recommendations:
-In order to better understand June and December weather conditions in Oahu, Hawaii, the following analysis/query is recommended:
-* Plot the average June and December temperatures
+In order to even better understand June and December weather conditions in Oahu, Hawaii, the following analysis/queries are recommended:
+* Run analysis on which side of Oahu has the best weather conditions in June vs December
+* Collect data on water temperatures for June vs December and present a summary statistics
+* Since W. Avy wants to understand trends in the data, it would be very helpful to do some plotting.  In other words, plot the average June and December     temperature to visualize occuring trends 
