@@ -12,6 +12,9 @@ In order to determine the summary statistics for June and December temperatures 
 * Maximum day temperature can reach 85 degrees Fahrenheit
 * Minimum temperature can dip to 64 degrees Fahrenheit
 
+![](PyBer%20Summary%20of%20Fares%20-%20Weekly.png)
+
+
 ## December
 * Temperatures stay in mid 70's 
 * Average temperature of 71 degrees Fahrenheit (plus/minus 3 degrees)
