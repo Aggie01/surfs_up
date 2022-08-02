@@ -13,7 +13,7 @@ In order to determine the summary statistics for June and December temperatures 
 * Minimum temperature can dip to 64 degrees Fahrenheit
 
 
-![](PyBer%20Summary%20of%20Fares%20-%20Weekly.png)
+![](surfs_up/blob/main/June%20temp.png)
 
 
 ## December
