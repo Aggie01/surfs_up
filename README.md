@@ -8,7 +8,7 @@ In order to determine the summary statistics for June and December temperatures 
 
 ## Air Temperature Results :
 ## June 
-* Temperatures stay quite steady in the mid 70's and low 80's
+* Temperatures stay quite steady in the mid-70's and low 80's
 * Average June temperature reaches 75 degrees Fahrenheit
 * Maximum day temperature can reach as high as 85 degrees Fahrenheit
 * Minimum temperature can dip to 64 degrees Fahrenheit
@@ -18,7 +18,7 @@ In order to determine the summary statistics for June and December temperatures 
 
 
 ## December
-* Temperatures stay in mid 70's 
+* Temperatures stay in mid-70's 
 * Average temperature of 71 degrees Fahrenheit (plus/minus 3 degrees)
 * Maximum air temperature not exceeding 83 degrees Fahrenheit
 * Nights become cooler with temperature dipping into 60's and high 50's.
@@ -28,11 +28,11 @@ In order to determine the summary statistics for June and December temperatures 
 
 
 ## Summary findings:
-* June makes it a perfect time to visit Oahu since it is warm enough to enjoy some water sports but not too hot for a jog
+* June makes it a perfect time to visit Oahu since it is warm enough to enjoy all water sports and not too hot for a long jog
 * December temperatures are comfortable but can be a little chillier than expected for those who look for a warm evening stroll or evening ocean dive 
 
 ## Recommendations:
-In order to even better understand June and December weather conditions in Oahu, Hawaii, the following analysis/queries are recommended:
+In order to further understand June and December weather conditions in Oahu, Hawaii, the following is recommended:
 * Run analysis on which side of Oahu has the best weather conditions in June vs December
 * Collect data on water temperatures for June vs December and present a summary statistics
-* Since W. Avy wants to understand trends in the data, it would be very helpful to do some plotting.  In other words, plot the average June and December     temperature to visualize occuring trends 
+* Since W. Avy wants to understand trends in the data, it would be very helpful to do some plotting.  In other words, plot the average June and December     temperatures to visualize occurring data trends 
