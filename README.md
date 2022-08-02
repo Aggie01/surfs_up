@@ -22,3 +22,5 @@ In order to determine the summary statistics for June and December temperatures 
 * Maximum air temperature not exceeding 83 degrees Fahrenheit
 * Nights become cooler with temperature dipping into low 60's and high 50's.
 
+
+![](June%20temp.png)
